@@ -19,7 +19,7 @@ The main objective will be to detect the difference between real and computer ge
 * [Git](https://github.com/)
 * [Tensorflow Keras](https://keras.io/)
 * [Streamlit](https://streamlit.io/)
-* [WandB]((https:/wandb.ai)
+* [WandB](https:/wandb.ai)
 
 We would love to continue improving this analysis. Please contribute.. :smiley: :smiley:
 
