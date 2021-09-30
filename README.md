@@ -9,6 +9,41 @@ This project is centered on identifying the difference between  ones actual voic
 The main objective will be to detect the difference between real and computer generated voices and correctly classify them. 
 
 ### Specific Objectives:  
-- To replicate an audio synthesizer
-- To get the synthesizer to work with Swahili typed text
-- To identify characteristics of deep fakes vs those of natural audio
+- To create a webapp for audio classification.
+- To identify characteristics of deep fakes vs those of natural audio.
+
+### Built With
+
+* [Google Colab](https://colab.research.google.com/) 
+* [Python](https://www.python.org/)
+* [Git](https://github.com/)
+* [Tensorflow Keras](https://keras.io/)
+* [Streamlit](https://streamlit.io/)
+* [WandB]((https:/wandb.ai)
+
+We would love to continue improving this analysis. Please contribute.. :smiley: :smiley:
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+* Beaty Kiplagat - [Beaty](https://github.com/beatricekiplagat)
+* Ian Tirok - [Ian](https://github.com/IanTirok)
+* John Ruoro - [John](https://github.com/ruoroj) 
+* Kelvin Njunge - [Kelvin](https://github.com/kelvinnjunge) 
